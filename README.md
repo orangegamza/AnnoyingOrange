@@ -3,6 +3,11 @@
 Original data set : https://github.com/JingchunCheng/All-Age-Faces-Dataset
 
  ---
+ 
+ **Google Slide**
+ [Slide show](https://docs.google.com/presentation/d/1apYzjFrMdK-_86VYhGwzZ-WWvSMS3UrD_uiNTJ7Wz6Y/edit?usp=sharing)
+ 
+ ---
 
 **Training face markers :** 안동근
 
